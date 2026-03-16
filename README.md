@@ -1,0 +1,2 @@
+# magnetic_keyboard_meishi
+基板名刺ver2磁気スイッチ版
